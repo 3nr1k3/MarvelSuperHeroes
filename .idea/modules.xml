@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MarvelSuperHeroes.iml" filepath="$PROJECT_DIR$/MarvelSuperHeroes.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marvelapi/marvelapi.iml" filepath="$PROJECT_DIR$/marvelapi/marvelapi.iml" />
     </modules>
   </component>
 </project>

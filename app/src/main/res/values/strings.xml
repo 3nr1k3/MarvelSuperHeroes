@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Marvel Super Heroes</string>
+
+    <string name="search_title">Busca tu súper-héroe</string>
+    <string name="search_hint_hero_input">nombre a buscar</string>
+    <string name="hero_name">Nombre</string>
+    <string name="hero_description">Descripción</string>
+    <string name="txv_details_links">Links</string>
+    <string name="btn_details_detail">Detalle</string>
+    <string name="btn_details_comic">Comic</string>
+    <string name="btn_details_wiki">Wiki</string>
+    <string name="txv_details_resources">Recursos</string>
+
+
+    <string name="tab_detail_comic">Comics</string>
+    <string name="tab_detail_event">Eventos</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="comic_title">Título</string>
+    <string name="comic_description">Descripción</string>
+    <string name="event_name">Nombre Evento</string>
+    <string name="event_description">Descripción</string>
 </resources>
